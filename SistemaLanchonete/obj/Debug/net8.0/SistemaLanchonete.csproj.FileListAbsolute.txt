@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\bin\Debug\net8.0\SistemaLanchonete.exe
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\bin\Debug\net8.0\SistemaLanchonete.deps.json
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\bin\Debug\net8.0\SistemaLanchonete.runtimeconfig.json
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\bin\Debug\net8.0\SistemaLanchonete.dll
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\bin\Debug\net8.0\SistemaLanchonete.pdb
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.dll
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\refint\SistemaLanchonete.dll
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.pdb
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\SistemaLanchonete.genruntimeconfig.cache
+C:\Users\Nicolas\Documents\codigos\SistemaLanchonete\obj\Debug\net8.0\ref\SistemaLanchonete.dll
